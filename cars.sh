@@ -17,6 +17,7 @@ do
 			"2") echo
 				sort My_old_cars;;
 			"3") echo
+				echo "Goodbye";
 				break;;
 
 		esac
